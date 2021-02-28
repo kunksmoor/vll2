@@ -36,10 +36,11 @@ footer {
     margin-top: 60px;
     padding: 5em;
 }
-.carousel-inner img{
+
+.carousel-image{
     width: auto;
-    height: 600px;
-    max-height: 600px;
+    height: 200px;
+    max-height: 200px;
   }
   .jumbotron-billboard .img {
     margin-bottom: 0px;
